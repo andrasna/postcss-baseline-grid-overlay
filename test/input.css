@@ -1,0 +1,21 @@
+body,
+h1,
+p {
+  margin: 0;
+}
+
+body {
+  baseline-grid-overlay: 24px hsla(280, 50%, 30%, .3) 9999;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 3rem;
+  margin-bottom: 1.5rem;
+}
