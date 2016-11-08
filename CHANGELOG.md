@@ -1,3 +1,3 @@
-## v2.0.0 - 2016-11-08
+## v3.0.0 - 2016-11-09
 
-- First version
+- Initial version

@@ -1,6 +1,6 @@
 {
   "name": "postcss-baseline-grid-overlay",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "PostCSS plugin to check vertical rhythm by using a baseline grid overlay created with the linear-gradient function.",
   "keywords": [
     "postcss",
