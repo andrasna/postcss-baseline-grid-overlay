@@ -35,9 +35,9 @@ You can see what the output looks like on CodePen: [link](http://codepen.io/andr
 
 The values for the `baseline-grid-overlay` property are:
 
-`<base-line-height> [<line-color>] [<z-index>]`
+`<base-line-height> [<line-color> <z-index>]`
 
-The `line-color` and `z-index` values are optional, and default to `rgba(0, 0, 0, .25)` and `9999`. You can use any valid `background-size`, `background-color` and `z-index` value.
+The `line-color` and `z-index` values default to `rgba(0, 0, 0, .25)` and `9999` if ommited.
 
 ## Usage
 
