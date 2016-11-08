@@ -37,7 +37,7 @@ The values for the `baseline-grid-overlay` property are:
 
 `<base-line-height> [<line-color> <z-index>]`
 
-The `line-color` and `z-index` values default to `rgba(0, 0, 0, .25)` and `9999` if omited.
+The `line-color` and `z-index` values default to `rgba(0, 0, 0, .25)` and `9999` if omitted.
 
 ## Usage
 
