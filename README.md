@@ -31,7 +31,7 @@ body::after {
     z-index: 9999;
 }
 ```
-You can see what the output looks like on CodePen: [link](http://codepen.io/andrasnagy/pen/yVNGdw)
+You can see what the output looks like on CodePen: [link](http://codepen.io/andrasnagy/pen/yVObgx)
 
 The values for the `baseline-grid-overlay` property are:
 
